@@ -1,0 +1,2 @@
+
+void testfunc(int i);
